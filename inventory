@@ -1,3 +1,6 @@
+#ansibleclient01
 192.168.3.128
+#ansibleclient02
 192.168.3.117
+#ansibleclient03
 192.168.3.130
